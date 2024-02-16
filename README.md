@@ -1,4 +1,5 @@
-# esercizio15-02: Realizzare un programma, che utilizzi un array di interi, implementando le seguenti funzionalità, selezionabili attraverso un menù:
+# esercizio15-02: 
+Realizzare un programma, che utilizzi un array di interi, implementando le seguenti funzionalità, selezionabili attraverso un menù:
                   caricamento tastiera
                   caricamento random
                   visualizzazione
