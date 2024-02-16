@@ -49,10 +49,12 @@ public class OperazioniConMenu {
                     n++;
                     break;
                 case 5:
-                    n--;
                     System.out.println("in che posizione vuoi rimuovere il numero?");
                     pos = in.nextInt();
-                    array[pos-1] = 0;
+                    for(int i = pos; i<n-1;i++){
+                        array[i] = array[i+1];
+                    }
+                    n--;
                     break;
                 case 6:
                     break;
