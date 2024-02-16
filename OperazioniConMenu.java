@@ -45,7 +45,7 @@ public class OperazioniConMenu {
                     }
                     System.out.println("inserisci il numero");
                     int num = in.nextInt();
-                    array[pos-1] = num;
+                    array[pos] = num;
                     n++;
                     break;
                 case 5:
